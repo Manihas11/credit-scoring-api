@@ -1,5 +1,5 @@
 """
-Credit Scoring Model — Month 2
+Credit Scoring Model 
 XGBoost + SHAP explainability + MLflow tracking
 
 Usage:
