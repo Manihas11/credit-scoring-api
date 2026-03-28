@@ -1,6 +1,6 @@
 """
 Credit Scoring - Data Ingestion DAG
-Month 1 Pipeline: Download → Validate → Clean → Store
+Pipeline: Download → Validate → Clean → Store
 
 Schedule: Daily at 2 AM IST
 """
