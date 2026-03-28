@@ -1,12 +1,3 @@
-"""
-Month 2 — Run everything in sequence:
-  1. Feature engineering
-  2. Model training (XGBoost + SHAP + MLflow)
-
-Usage:
-    python run_month2.py
-"""
-
 import os
 import pandas as pd
 from src.features.engineer import CreditFeatureEngineer
