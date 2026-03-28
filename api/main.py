@@ -1,14 +1,3 @@
-"""
-Credit Scoring API — Month 3
-FastAPI endpoint: POST /score → credit score + reasons
-
-Run locally:
-    uvicorn api.main:app --reload
-
-Deploy to Render/Railway:
-    Set start command to: uvicorn api.main:app --host 0.0.0.0 --port $PORT
-"""
-
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import HTMLResponse
