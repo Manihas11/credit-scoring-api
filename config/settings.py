@@ -19,7 +19,7 @@ MAX_NULL_RATE_CRITICAL = 0.05   # columns like TARGET, SK_ID_CURR
 MAX_NULL_RATE_EXTERNAL = 0.60   # external credit scores (expected to be sparse)
 MIN_ROWS               = 100_000
 
-# ── Model (used in Month 2) ───────────────────────────────────────────────────
+# ── Model ───────────────────────────────────────────────────
 TARGET_COL    = "TARGET"
 ID_COL        = "SK_ID_CURR"
 TEST_SIZE     = 0.20
