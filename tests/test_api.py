@@ -1,5 +1,5 @@
 """
-API Tests — Month 3
+API Tests 
 Tests the FastAPI endpoint without needing a running server.
 Run: pytest tests/test_api.py -v
 """
