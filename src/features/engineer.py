@@ -1,7 +1,7 @@
 """
-Feature Engineering — Month 2
+Feature Engineering 
 Builds 30/60/90-day behavioral window features
-on top of the clean parquet from Month 1.
+on top of the clean parquet.
 """
 
 import pandas as pd
