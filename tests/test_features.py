@@ -1,5 +1,5 @@
 """
-Month 2 Tests — Feature engineering + model output
+Feature engineering + model output
 Run: pytest tests/ -v
 """
 
